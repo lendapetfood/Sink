@@ -14,14 +14,14 @@ onMounted(() => {
         href="/"
         class="text-xl font-black leading-none text-gray-900 select-none dark:text-gray-100 logo"
         title="Sink"
-      >Sink</a>
+      >Sink ❤️ Lenda</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
         href="#"
         target="_blank"
         title="HTML.ZONE"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE 
+        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
       </a>
      <!--- <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
