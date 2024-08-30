@@ -23,28 +23,14 @@ const { title, description } = useAppConfig()
         <HomeLink
           href="/dashboard"
           target="_blank"
-          title="Dashboard"
+          title="Panel de Control"
           class="flex items-center justify-center gap-1"
           rel="noopener"
         >
           <AreaChart
             class="w-5 h-5"
           />
-          Dashboard
-        </HomeLink>
-        <HomeLink
-          size="lg"
-          type="outline"
-          rel="noopener"
-          href="https://github.com/ccbikai/sink"
-          title="Github"
-          class="flex items-center justify-center gap-1"
-          target="_blank"
-        >
-          <GitHubIcon
-            class="w-5 h-5"
-          />
-          GitHub Repo
+          Panel de Control
         </HomeLink>
       </div>
     </div>
